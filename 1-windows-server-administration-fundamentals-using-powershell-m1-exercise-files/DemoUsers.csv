@@ -1,0 +1,9 @@
+DistinguishedName,Department,SamAccountName,Name,GivenName,Surname,UserPrincipalName,City,Enabled,ChangePasswordAtLogon
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",Operations,ShawnM,ShawnM,Shawn,Melendez,ShawnM@wiredbrain.priv,Madison,$False,$True
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",IT,LynneB,LynneB,Lynne,Baxter,LynneB@wiredbrain.priv,Madison,$False,$True
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",Development,ClaudeL,ClaudeL,Claude,Loiselle,ClaudeL@wiredbrain.priv,Madison,$False,$True
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",Operations,TomT,TomT,Tom,Timmons,tomt@wiredbrain.priv,Madison,$False,$True
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",Operations,bobj,bobj,Bob,Jones,bobj@wiredbrain.priv,Madison,$False,$True
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",IT,todds,todds,Todd,Smith,todds@wiredbrain.priv,Madison,$False,$True
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",IT,mbtest,mbtest,Mike,Bender-Test,mbtest@wiredbrain.priv,Madison,$True,$False
+"OU=Users,OU=Madison,OU=CompanyOU,DC=WiredBrain,DC=Priv",IT,mbadmin,mbadmin,Mike,Bender-Admin,mbadmin@wiredbrain.priv,Chicago,$True,$False
